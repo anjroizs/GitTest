@@ -1,1 +1,2 @@
-start learn git command 
+start learn git command
+checkout a new branch named dev. 
