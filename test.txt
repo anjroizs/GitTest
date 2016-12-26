@@ -1,2 +1,3 @@
 start learn git command
-checkout a new branch named dev. 
+checkout a new branch named dev.
+modify text.txt on branch master 
